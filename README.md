@@ -1,6 +1,9 @@
 # urban-store
 
-## Premises:
+## Premises
+
 Project designed to study architecture in aws serverless technologies.
 
 ## Architecture
+
+![Architecture AWS](docs/architecture-urban-store.png)
