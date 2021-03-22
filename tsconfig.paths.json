@@ -2,7 +2,9 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@libs/*": ["src/libs/*"]
+      "@common/*": ["packages/common/*"],
+      "@enums/*": ["packages/enums/*"],
+      "@interfaces/*": ["packages/interfaces/*"]
     }
   }
 }

@@ -10,7 +10,7 @@
     "target": "ES2019",
     "outDir": "lib"
   },
-  "include": ["src/**/*.ts"],
+  "include": ["packages/api/products/src/**/*.ts", "packages/api/products/index.ts"],
   "exclude": [
     "node_modules/**/*",
     ".serverless/**/*",
